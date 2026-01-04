@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Protein LM Sparse Feature Circuits</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./style.css" />
+
+  <!-- Cytoscape -->
+  <script src="https://unpkg.com/cytoscape@3.28.1/dist/cytoscape.min.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="title">
+      <div class="eyebrow">Protein LM interpretability</div>
+      <h1>Protein LM Sparse Feature Circuits</h1>
+      <p class="subtitle">
+        Interactive causal graph of SAE features → behavior (e.g., TM helix detection).
+      </p>
+    </div>
+
+    <div class="controls">
+      <label class="control">
+        <span>Graph</span>
+        <select id="graphSelect">
+          <option value="tm_circuit_graph.json">TM Helix</option>
+          <option value="sp_circuit_graph.json">Signal Peptide</option>
+        </select>
+      </label>
+
+      <label class="control">
+        <span>Min edge weight</span>
+        <div class="rangeWrap">
+          <input id="minEdge" type="range" min="0" max="1" step="0.01" value="0" />
+          <span id="minEdgeVal" class="rangeVal">0.00</span>
+        </div>
+      </label>
+
+      <label class="control">
+        <span>Max edges per node</span>
+        <input id="maxEdges" type="number" min="1" max="200" value="50" />
+      </label>
+
+      <button id="fitBtn" class="primary">Fit graph</button>
+    </div>
+  </header>
+
+  <main class="layout">
+    <section class="graphPane">
+      <div id="cy"></div>
+    </section>
+
+    <aside id="panel">
+      <h2>Details</h2>
+      <div id="details" class="details">
+        <p>Click a node or edge in the graph.</p>
+      </div>
+
+      <hr/>
+
+      <h3>How to read this</h3>
+      <ul>
+        <li><b>Nodes</b> are SAE features (e.g. <code>L5:F123</code>) and one behavior node (<code>behavior:tm</code>).</li>
+        <li><b>Edges</b> are causal-effect proxies:
+          <ul>
+            <li><code>feat→behavior</code>: Δloss when ablating that feature.</li>
+            <li><code>feat→feat</code>: mean |Δ downstream feature activation| after ablation.</li>
+          </ul>
+        </li>
+      </ul>
+
+      <hr/>
+      <p class="small">
+        Tip: Start with a higher <b>Min edge weight</b> to reveal the core circuit.
+      </p>
+    </aside>
+  </main>
+
+  <footer>
+    <span>Made with Cytoscape.js · Static JSON graphs</span>
+  </footer>
+  <script src="./sequence_viewer.js?v=2"></script>
+  <script src="./app.js?v=2"></script>
+
+  
+</body>
+</html>

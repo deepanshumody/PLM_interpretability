@@ -1,0 +1,1804 @@
+{
+  "nodes": [
+    {
+      "id": "behavior:sp",
+      "kind": "behavior"
+    },
+    {
+      "id": "L2:F154",
+      "kind": "feature",
+      "layer": 2,
+      "feature": 154,
+      "importance": 0.00154596078209579
+    },
+    {
+      "id": "L5:F217",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 217
+    },
+    {
+      "id": "L5:F857",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 857
+    },
+    {
+      "id": "L5:F1431",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 1431
+    },
+    {
+      "id": "L5:F516",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 516
+    },
+    {
+      "id": "L5:F1856",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 1856
+    },
+    {
+      "id": "L5:F1077",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 1077
+    },
+    {
+      "id": "L5:F1200",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 1200
+    },
+    {
+      "id": "L5:F1258",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 1258
+    },
+    {
+      "id": "L5:F1250",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 1250
+    },
+    {
+      "id": "L5:F1820",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 1820
+    },
+    {
+      "id": "L5:F837",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 837
+    },
+    {
+      "id": "L5:F795",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 795
+    },
+    {
+      "id": "L5:F1148",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 1148
+    },
+    {
+      "id": "L5:F1574",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 1574
+    },
+    {
+      "id": "L5:F1698",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 1698
+    },
+    {
+      "id": "L5:F1465",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 1465
+    },
+    {
+      "id": "L5:F193",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 193
+    },
+    {
+      "id": "L5:F873",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 873
+    },
+    {
+      "id": "L5:F320",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 320
+    },
+    {
+      "id": "L5:F1834",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 1834
+    },
+    {
+      "id": "L2:F131",
+      "kind": "feature",
+      "layer": 2,
+      "feature": 131,
+      "importance": 0.0011593826347962022
+    },
+    {
+      "id": "L5:F1032",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 1032
+    },
+    {
+      "id": "L5:F620",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 620
+    },
+    {
+      "id": "L5:F162",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 162
+    },
+    {
+      "id": "L5:F1147",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 1147
+    },
+    {
+      "id": "L5:F849",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 849
+    },
+    {
+      "id": "L5:F1833",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 1833
+    },
+    {
+      "id": "L5:F1937",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 1937
+    },
+    {
+      "id": "L5:F1580",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 1580
+    },
+    {
+      "id": "L5:F302",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 302
+    },
+    {
+      "id": "L5:F244",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 244
+    },
+    {
+      "id": "L2:F82",
+      "kind": "feature",
+      "layer": 2,
+      "feature": 82,
+      "importance": 0.0007565304404124618
+    },
+    {
+      "id": "L5:F1393",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 1393
+    },
+    {
+      "id": "L5:F765",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 765
+    },
+    {
+      "id": "L5:F582",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 582
+    },
+    {
+      "id": "L5:F1748",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 1748
+    },
+    {
+      "id": "L5:F383",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 383
+    },
+    {
+      "id": "L2:F179",
+      "kind": "feature",
+      "layer": 2,
+      "feature": 179,
+      "importance": 0.0006878309068270028
+    },
+    {
+      "id": "L5:F191",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 191
+    },
+    {
+      "id": "L5:F723",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 723
+    },
+    {
+      "id": "L5:F541",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 541
+    },
+    {
+      "id": "L5:F1394",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 1394
+    },
+    {
+      "id": "L5:F933",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 933
+    },
+    {
+      "id": "L5:F725",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 725
+    },
+    {
+      "id": "L5:F80",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 80
+    },
+    {
+      "id": "L5:F674",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 674
+    },
+    {
+      "id": "L2:F250",
+      "kind": "feature",
+      "layer": 2,
+      "feature": 250,
+      "importance": 0.0006278082728385925
+    },
+    {
+      "id": "L5:F1065",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 1065
+    },
+    {
+      "id": "L2:F251",
+      "kind": "feature",
+      "layer": 2,
+      "feature": 251,
+      "importance": 0.0004499848873820156
+    },
+    {
+      "id": "L5:F627",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 627
+    },
+    {
+      "id": "L5:F936",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 936
+    },
+    {
+      "id": "L5:F167",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 167,
+      "importance": 0.0005712117999792099
+    },
+    {
+      "id": "L5:F735",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 735
+    },
+    {
+      "id": "L2:F71",
+      "kind": "feature",
+      "layer": 2,
+      "feature": 71,
+      "importance": 0.00040573516162112355
+    },
+    {
+      "id": "L5:F701",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 701
+    },
+    {
+      "id": "L2:F224",
+      "kind": "feature",
+      "layer": 2,
+      "feature": 224,
+      "importance": 0.00040521621122024953
+    },
+    {
+      "id": "L5:F1773",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 1773
+    },
+    {
+      "id": "L5:F1502",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 1502
+    },
+    {
+      "id": "L2:F36",
+      "kind": "feature",
+      "layer": 2,
+      "feature": 36,
+      "importance": 0.00038059987127780914
+    },
+    {
+      "id": "L5:F563",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 563
+    },
+    {
+      "id": "L5:F832",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 832
+    },
+    {
+      "id": "L2:F80",
+      "kind": "feature",
+      "layer": 2,
+      "feature": 80,
+      "importance": 0.0003277849464211613
+    },
+    {
+      "id": "L5:F487",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 487
+    },
+    {
+      "id": "L5:F560",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 560
+    },
+    {
+      "id": "L5:F17",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 17,
+      "importance": 0.004562370013445616
+    },
+    {
+      "id": "L5:F22",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 22,
+      "importance": 0.0029293899424374104
+    },
+    {
+      "id": "L5:F61",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 61,
+      "importance": 0.0007877692696638405
+    },
+    {
+      "id": "L5:F173",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 173,
+      "importance": 0.0006469398504123092
+    },
+    {
+      "id": "L5:F57",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 57,
+      "importance": 0.0006271500024013221
+    },
+    {
+      "id": "L5:F55",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 55,
+      "importance": 0.0005432941252365708
+    },
+    {
+      "id": "L5:F5",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 5,
+      "importance": 0.0004222933202981949
+    },
+    {
+      "id": "L5:F48",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 48,
+      "importance": 0.0003759607789106667
+    },
+    {
+      "id": "L5:F70",
+      "kind": "feature",
+      "layer": 5,
+      "feature": 70,
+      "importance": 0.00021405666484497488
+    }
+  ],
+  "edges": [
+    {
+      "src": "L2:F154",
+      "dst": "behavior:sp",
+      "weight": 0.00154596078209579,
+      "kind": "feat->behavior"
+    },
+    {
+      "src": "L2:F154",
+      "dst": "L5:F217",
+      "weight": 1.690711498260498,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F154",
+      "dst": "L5:F857",
+      "weight": 1.6800060272216797,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F154",
+      "dst": "L5:F1431",
+      "weight": 1.672189474105835,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F154",
+      "dst": "L5:F516",
+      "weight": 1.644798755645752,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F154",
+      "dst": "L5:F1856",
+      "weight": 1.5778504610061646,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F154",
+      "dst": "L5:F1077",
+      "weight": 1.5718884468078613,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F154",
+      "dst": "L5:F1200",
+      "weight": 1.5340181589126587,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F154",
+      "dst": "L5:F1258",
+      "weight": 1.493683099746704,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F154",
+      "dst": "L5:F1250",
+      "weight": 1.3994468450546265,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F154",
+      "dst": "L5:F1820",
+      "weight": 1.3895974159240723,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F154",
+      "dst": "L5:F837",
+      "weight": 1.350445032119751,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F154",
+      "dst": "L5:F795",
+      "weight": 1.3009908199310303,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F154",
+      "dst": "L5:F1148",
+      "weight": 1.2783913612365723,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F154",
+      "dst": "L5:F1574",
+      "weight": 1.2770646810531616,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F154",
+      "dst": "L5:F1698",
+      "weight": 1.2551079988479614,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F154",
+      "dst": "L5:F1465",
+      "weight": 1.2232515811920166,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F154",
+      "dst": "L5:F193",
+      "weight": 1.1833140850067139,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F154",
+      "dst": "L5:F873",
+      "weight": 1.1807305812835693,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F154",
+      "dst": "L5:F320",
+      "weight": 1.1522477865219116,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F154",
+      "dst": "L5:F1834",
+      "weight": 1.1093860864639282,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F131",
+      "dst": "behavior:sp",
+      "weight": 0.0011593826347962022,
+      "kind": "feat->behavior"
+    },
+    {
+      "src": "L2:F131",
+      "dst": "L5:F1032",
+      "weight": 1.3242689371109009,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F131",
+      "dst": "L5:F320",
+      "weight": 1.1199755668640137,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F131",
+      "dst": "L5:F1200",
+      "weight": 0.9621162414550781,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F131",
+      "dst": "L5:F620",
+      "weight": 0.8644911646842957,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F131",
+      "dst": "L5:F1574",
+      "weight": 0.7986292839050293,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F131",
+      "dst": "L5:F162",
+      "weight": 0.7821372747421265,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F131",
+      "dst": "L5:F217",
+      "weight": 0.7768305540084839,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F131",
+      "dst": "L5:F1147",
+      "weight": 0.7483658194541931,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F131",
+      "dst": "L5:F516",
+      "weight": 0.7475925087928772,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F131",
+      "dst": "L5:F1431",
+      "weight": 0.7417436838150024,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F131",
+      "dst": "L5:F849",
+      "weight": 0.7231674194335938,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F131",
+      "dst": "L5:F795",
+      "weight": 0.7017632126808167,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F131",
+      "dst": "L5:F1258",
+      "weight": 0.6572948098182678,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F131",
+      "dst": "L5:F1833",
+      "weight": 0.6325189471244812,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F131",
+      "dst": "L5:F1937",
+      "weight": 0.624920666217804,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F131",
+      "dst": "L5:F1465",
+      "weight": 0.6221071481704712,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F131",
+      "dst": "L5:F1580",
+      "weight": 0.6142634749412537,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F131",
+      "dst": "L5:F873",
+      "weight": 0.611720860004425,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F131",
+      "dst": "L5:F302",
+      "weight": 0.5873948335647583,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F131",
+      "dst": "L5:F244",
+      "weight": 0.5565231442451477,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F82",
+      "dst": "behavior:sp",
+      "weight": 0.0007565304404124618,
+      "kind": "feat->behavior"
+    },
+    {
+      "src": "L2:F82",
+      "dst": "L5:F516",
+      "weight": 0.6471606492996216,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F82",
+      "dst": "L5:F1465",
+      "weight": 0.6447587013244629,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F82",
+      "dst": "L5:F1032",
+      "weight": 0.6186807155609131,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F82",
+      "dst": "L5:F217",
+      "weight": 0.570665717124939,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F82",
+      "dst": "L5:F1258",
+      "weight": 0.5355933904647827,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F82",
+      "dst": "L5:F849",
+      "weight": 0.5217377543449402,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F82",
+      "dst": "L5:F1820",
+      "weight": 0.4916306734085083,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F82",
+      "dst": "L5:F320",
+      "weight": 0.48196226358413696,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F82",
+      "dst": "L5:F1393",
+      "weight": 0.4684627056121826,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F82",
+      "dst": "L5:F1200",
+      "weight": 0.46302327513694763,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F82",
+      "dst": "L5:F1937",
+      "weight": 0.4612061679363251,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F82",
+      "dst": "L5:F795",
+      "weight": 0.45611312985420227,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F82",
+      "dst": "L5:F1833",
+      "weight": 0.4561038017272949,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F82",
+      "dst": "L5:F765",
+      "weight": 0.45066171884536743,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F82",
+      "dst": "L5:F873",
+      "weight": 0.4476187527179718,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F82",
+      "dst": "L5:F582",
+      "weight": 0.44050610065460205,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F82",
+      "dst": "L5:F620",
+      "weight": 0.4368824064731598,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F82",
+      "dst": "L5:F1748",
+      "weight": 0.43289923667907715,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F82",
+      "dst": "L5:F1431",
+      "weight": 0.42353397607803345,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F82",
+      "dst": "L5:F383",
+      "weight": 0.4173103868961334,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F179",
+      "dst": "behavior:sp",
+      "weight": 0.0006878309068270028,
+      "kind": "feat->behavior"
+    },
+    {
+      "src": "L2:F179",
+      "dst": "L5:F191",
+      "weight": 0.7394258379936218,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F179",
+      "dst": "L5:F620",
+      "weight": 0.6713079810142517,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F179",
+      "dst": "L5:F516",
+      "weight": 0.6558166146278381,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F179",
+      "dst": "L5:F723",
+      "weight": 0.6275875568389893,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F179",
+      "dst": "L5:F795",
+      "weight": 0.59693843126297,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F179",
+      "dst": "L5:F1574",
+      "weight": 0.5778091549873352,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F179",
+      "dst": "L5:F541",
+      "weight": 0.5763742923736572,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F179",
+      "dst": "L5:F1200",
+      "weight": 0.528105616569519,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F179",
+      "dst": "L5:F162",
+      "weight": 0.5226072072982788,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F179",
+      "dst": "L5:F383",
+      "weight": 0.5094764828681946,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F179",
+      "dst": "L5:F1394",
+      "weight": 0.46686822175979614,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F179",
+      "dst": "L5:F933",
+      "weight": 0.4593544602394104,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F179",
+      "dst": "L5:F1393",
+      "weight": 0.4504668116569519,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F179",
+      "dst": "L5:F725",
+      "weight": 0.4455832839012146,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F179",
+      "dst": "L5:F217",
+      "weight": 0.43293440341949463,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F179",
+      "dst": "L5:F849",
+      "weight": 0.4278982877731323,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F179",
+      "dst": "L5:F1431",
+      "weight": 0.4257122576236725,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F179",
+      "dst": "L5:F80",
+      "weight": 0.4222542345523834,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F179",
+      "dst": "L5:F1032",
+      "weight": 0.42206352949142456,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F179",
+      "dst": "L5:F674",
+      "weight": 0.4213811755180359,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F250",
+      "dst": "behavior:sp",
+      "weight": 0.0006278082728385925,
+      "kind": "feat->behavior"
+    },
+    {
+      "src": "L2:F250",
+      "dst": "L5:F1258",
+      "weight": 0.9746716022491455,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F250",
+      "dst": "L5:F1147",
+      "weight": 0.6891193985939026,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F250",
+      "dst": "L5:F1431",
+      "weight": 0.6663317084312439,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F250",
+      "dst": "L5:F795",
+      "weight": 0.6352787613868713,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F250",
+      "dst": "L5:F620",
+      "weight": 0.6059417724609375,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F250",
+      "dst": "L5:F873",
+      "weight": 0.5779332518577576,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F250",
+      "dst": "L5:F320",
+      "weight": 0.5648573040962219,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F250",
+      "dst": "L5:F516",
+      "weight": 0.5581122040748596,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F250",
+      "dst": "L5:F162",
+      "weight": 0.5534982681274414,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F250",
+      "dst": "L5:F765",
+      "weight": 0.5492739081382751,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F250",
+      "dst": "L5:F1200",
+      "weight": 0.5274369120597839,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F250",
+      "dst": "L5:F1465",
+      "weight": 0.5256644487380981,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F250",
+      "dst": "L5:F1032",
+      "weight": 0.5134989619255066,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F250",
+      "dst": "L5:F933",
+      "weight": 0.493316650390625,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F250",
+      "dst": "L5:F191",
+      "weight": 0.4584553837776184,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F250",
+      "dst": "L5:F1833",
+      "weight": 0.42759060859680176,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F250",
+      "dst": "L5:F1065",
+      "weight": 0.42340296506881714,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F250",
+      "dst": "L5:F217",
+      "weight": 0.4190615713596344,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F250",
+      "dst": "L5:F1937",
+      "weight": 0.4147849380970001,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F250",
+      "dst": "L5:F582",
+      "weight": 0.3996744453907013,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F251",
+      "dst": "behavior:sp",
+      "weight": 0.0004499848873820156,
+      "kind": "feat->behavior"
+    },
+    {
+      "src": "L2:F251",
+      "dst": "L5:F1258",
+      "weight": 0.3820410966873169,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F251",
+      "dst": "L5:F765",
+      "weight": 0.2752048373222351,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F251",
+      "dst": "L5:F1431",
+      "weight": 0.22382530570030212,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F251",
+      "dst": "L5:F795",
+      "weight": 0.22365640103816986,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F251",
+      "dst": "L5:F873",
+      "weight": 0.1976405531167984,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F251",
+      "dst": "L5:F217",
+      "weight": 0.17577578127384186,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F251",
+      "dst": "L5:F1393",
+      "weight": 0.17553438246250153,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F251",
+      "dst": "L5:F1698",
+      "weight": 0.17445744574069977,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F251",
+      "dst": "L5:F191",
+      "weight": 0.17037534713745117,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F251",
+      "dst": "L5:F383",
+      "weight": 0.16929548978805542,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F251",
+      "dst": "L5:F849",
+      "weight": 0.16918879747390747,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F251",
+      "dst": "L5:F1200",
+      "weight": 0.15675093233585358,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F251",
+      "dst": "L5:F627",
+      "weight": 0.14283622801303864,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F251",
+      "dst": "L5:F725",
+      "weight": 0.14147716760635376,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F251",
+      "dst": "L5:F936",
+      "weight": 0.14127838611602783,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F251",
+      "dst": "L5:F162",
+      "weight": 0.13852433860301971,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F251",
+      "dst": "L5:F167",
+      "weight": 0.13780678808689117,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F251",
+      "dst": "L5:F1580",
+      "weight": 0.13083645701408386,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F251",
+      "dst": "L5:F1065",
+      "weight": 0.12622015178203583,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F251",
+      "dst": "L5:F735",
+      "weight": 0.12282264977693558,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L5:F167",
+      "dst": "behavior:sp",
+      "weight": 0.0005712117999792099,
+      "kind": "feat->behavior"
+    },
+    {
+      "src": "L2:F71",
+      "dst": "behavior:sp",
+      "weight": 0.00040573516162112355,
+      "kind": "feat->behavior"
+    },
+    {
+      "src": "L2:F71",
+      "dst": "L5:F701",
+      "weight": 0.41373541951179504,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F71",
+      "dst": "L5:F320",
+      "weight": 0.3456246852874756,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F71",
+      "dst": "L5:F191",
+      "weight": 0.3385724127292633,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F71",
+      "dst": "L5:F1748",
+      "weight": 0.33012181520462036,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F71",
+      "dst": "L5:F1698",
+      "weight": 0.3024122714996338,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F71",
+      "dst": "L5:F302",
+      "weight": 0.2969626784324646,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F71",
+      "dst": "L5:F217",
+      "weight": 0.2785533368587494,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F71",
+      "dst": "L5:F795",
+      "weight": 0.27385711669921875,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F71",
+      "dst": "L5:F1465",
+      "weight": 0.2713749408721924,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F71",
+      "dst": "L5:F1147",
+      "weight": 0.26266032457351685,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F71",
+      "dst": "L5:F1032",
+      "weight": 0.2616821229457855,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F71",
+      "dst": "L5:F1258",
+      "weight": 0.2590751647949219,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F71",
+      "dst": "L5:F849",
+      "weight": 0.25717324018478394,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F71",
+      "dst": "L5:F383",
+      "weight": 0.2532600164413452,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F71",
+      "dst": "L5:F674",
+      "weight": 0.24792510271072388,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F71",
+      "dst": "L5:F933",
+      "weight": 0.24544838070869446,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F71",
+      "dst": "L5:F735",
+      "weight": 0.2348547875881195,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F71",
+      "dst": "L5:F162",
+      "weight": 0.20918822288513184,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F71",
+      "dst": "L5:F1580",
+      "weight": 0.2065650224685669,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F71",
+      "dst": "L5:F1148",
+      "weight": 0.2055409550666809,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F224",
+      "dst": "behavior:sp",
+      "weight": 0.00040521621122024953,
+      "kind": "feat->behavior"
+    },
+    {
+      "src": "L2:F224",
+      "dst": "L5:F1937",
+      "weight": 0.25861483812332153,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F224",
+      "dst": "L5:F1698",
+      "weight": 0.1909732073545456,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F224",
+      "dst": "L5:F244",
+      "weight": 0.18333634734153748,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F224",
+      "dst": "L5:F191",
+      "weight": 0.18058553338050842,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F224",
+      "dst": "L5:F1065",
+      "weight": 0.17851947247982025,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F224",
+      "dst": "L5:F383",
+      "weight": 0.16539227962493896,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F224",
+      "dst": "L5:F1833",
+      "weight": 0.1645626574754715,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F224",
+      "dst": "L5:F1773",
+      "weight": 0.1594448685646057,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F224",
+      "dst": "L5:F1032",
+      "weight": 0.15892772376537323,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F224",
+      "dst": "L5:F620",
+      "weight": 0.15711040794849396,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F224",
+      "dst": "L5:F217",
+      "weight": 0.1524004489183426,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F224",
+      "dst": "L5:F162",
+      "weight": 0.14520874619483948,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F224",
+      "dst": "L5:F873",
+      "weight": 0.142245352268219,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F224",
+      "dst": "L5:F516",
+      "weight": 0.14028415083885193,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F224",
+      "dst": "L5:F933",
+      "weight": 0.13540972769260406,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F224",
+      "dst": "L5:F167",
+      "weight": 0.13460883498191833,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F224",
+      "dst": "L5:F1258",
+      "weight": 0.13026930391788483,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F224",
+      "dst": "L5:F1748",
+      "weight": 0.12972506880760193,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F224",
+      "dst": "L5:F1465",
+      "weight": 0.12804633378982544,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F224",
+      "dst": "L5:F1502",
+      "weight": 0.12590710818767548,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F36",
+      "dst": "behavior:sp",
+      "weight": 0.00038059987127780914,
+      "kind": "feat->behavior"
+    },
+    {
+      "src": "L2:F36",
+      "dst": "L5:F320",
+      "weight": 3.1335014227806823e-06,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F36",
+      "dst": "L5:F383",
+      "weight": 2.7111598228657385e-06,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F36",
+      "dst": "L5:F1200",
+      "weight": 2.6226043701171875e-06,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F36",
+      "dst": "L5:F516",
+      "weight": 2.6055745365738403e-06,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F36",
+      "dst": "L5:F795",
+      "weight": 2.442087406961946e-06,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F36",
+      "dst": "L5:F620",
+      "weight": 2.421651515760459e-06,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F36",
+      "dst": "L5:F1032",
+      "weight": 2.329690232727444e-06,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F36",
+      "dst": "L5:F1833",
+      "weight": 2.1151133751118323e-06,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F36",
+      "dst": "L5:F217",
+      "weight": 1.6519002201675903e-06,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F36",
+      "dst": "L5:F244",
+      "weight": 1.6042164361351752e-06,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F36",
+      "dst": "L5:F563",
+      "weight": 1.5497207641601562e-06,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F36",
+      "dst": "L5:F873",
+      "weight": 1.5088489817571826e-06,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F36",
+      "dst": "L5:F582",
+      "weight": 1.4952250921851373e-06,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F36",
+      "dst": "L5:F1580",
+      "weight": 1.4645712553829071e-06,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F36",
+      "dst": "L5:F735",
+      "weight": 1.4543533097821637e-06,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F36",
+      "dst": "L5:F832",
+      "weight": 1.4373234762388165e-06,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F36",
+      "dst": "L5:F1258",
+      "weight": 1.427105530638073e-06,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F36",
+      "dst": "L5:F1820",
+      "weight": 1.3010842394578503e-06,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F36",
+      "dst": "L5:F933",
+      "weight": 1.2329646779107861e-06,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F36",
+      "dst": "L5:F1393",
+      "weight": 1.2057167850798578e-06,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F80",
+      "dst": "behavior:sp",
+      "weight": 0.0003277849464211613,
+      "kind": "feat->behavior"
+    },
+    {
+      "src": "L2:F80",
+      "dst": "L5:F795",
+      "weight": 1.0809016227722168,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F80",
+      "dst": "L5:F320",
+      "weight": 0.9593813419342041,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F80",
+      "dst": "L5:F162",
+      "weight": 0.734066367149353,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F80",
+      "dst": "L5:F516",
+      "weight": 0.6883860230445862,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F80",
+      "dst": "L5:F1032",
+      "weight": 0.6522045135498047,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F80",
+      "dst": "L5:F1147",
+      "weight": 0.6517295241355896,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F80",
+      "dst": "L5:F217",
+      "weight": 0.633760929107666,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F80",
+      "dst": "L5:F244",
+      "weight": 0.6229643225669861,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F80",
+      "dst": "L5:F873",
+      "weight": 0.6214256882667542,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F80",
+      "dst": "L5:F1200",
+      "weight": 0.596418023109436,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F80",
+      "dst": "L5:F191",
+      "weight": 0.5799686908721924,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F80",
+      "dst": "L5:F1258",
+      "weight": 0.5631085634231567,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F80",
+      "dst": "L5:F933",
+      "weight": 0.5043465495109558,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F80",
+      "dst": "L5:F1465",
+      "weight": 0.4968959391117096,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F80",
+      "dst": "L5:F1431",
+      "weight": 0.4876912236213684,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F80",
+      "dst": "L5:F765",
+      "weight": 0.48635852336883545,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F80",
+      "dst": "L5:F735",
+      "weight": 0.48343008756637573,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F80",
+      "dst": "L5:F487",
+      "weight": 0.4644145965576172,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F80",
+      "dst": "L5:F560",
+      "weight": 0.4534056484699249,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L2:F80",
+      "dst": "L5:F849",
+      "weight": 0.4246305227279663,
+      "kind": "feat->feat"
+    },
+    {
+      "src": "L5:F17",
+      "dst": "behavior:sp",
+      "weight": 0.004562370013445616,
+      "kind": "feat->behavior"
+    },
+    {
+      "src": "L5:F22",
+      "dst": "behavior:sp",
+      "weight": 0.0029293899424374104,
+      "kind": "feat->behavior"
+    },
+    {
+      "src": "L5:F61",
+      "dst": "behavior:sp",
+      "weight": 0.0007877692696638405,
+      "kind": "feat->behavior"
+    },
+    {
+      "src": "L5:F173",
+      "dst": "behavior:sp",
+      "weight": 0.0006469398504123092,
+      "kind": "feat->behavior"
+    },
+    {
+      "src": "L5:F57",
+      "dst": "behavior:sp",
+      "weight": 0.0006271500024013221,
+      "kind": "feat->behavior"
+    },
+    {
+      "src": "L5:F55",
+      "dst": "behavior:sp",
+      "weight": 0.0005432941252365708,
+      "kind": "feat->behavior"
+    },
+    {
+      "src": "L5:F5",
+      "dst": "behavior:sp",
+      "weight": 0.0004222933202981949,
+      "kind": "feat->behavior"
+    },
+    {
+      "src": "L5:F48",
+      "dst": "behavior:sp",
+      "weight": 0.0003759607789106667,
+      "kind": "feat->behavior"
+    },
+    {
+      "src": "L5:F70",
+      "dst": "behavior:sp",
+      "weight": 0.00021405666484497488,
+      "kind": "feat->behavior"
+    }
+  ],
+  "meta": {
+    "model": "facebook/esm2_t6_8M_UR50D",
+    "behavior": "sp",
+    "sae_layers": [
+      2,
+      5
+    ],
+    "d_sae": 2048,
+    "k": 32
+  }
+}
