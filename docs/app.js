@@ -245,7 +245,9 @@ async function boot() {
   graphSelect.addEventListener("change", render);
   minEdge.addEventListener("input", () => render());
   maxEdges.addEventListener("change", render);
-  fitBtn.addEventListener("click", () => cy && cy.fit());
+  if (fitBtn) {
+    fitBtn.addEventListener("click", () => cy && cy.fit());
+  }
 
   await render();
 }
